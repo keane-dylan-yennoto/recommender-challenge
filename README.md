@@ -16,7 +16,7 @@ This project contains a recommender system built using Surprise a Python recomme
   
   
 
-The project contains the following files:
+The original project contains the following files (some files are witheld due to the course policy):
 
 1.  `training.txt`: Training data consisting of $u$ $i$ $r_{ui}$
 
