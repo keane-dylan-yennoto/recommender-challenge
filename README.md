@@ -26,6 +26,8 @@ $i$ : item_id
 
 $r_{ui}$ : rating of user $u$ to item $i$
 
+consisting of ~19.9 millions ratings
+
   
 
 2.  `testing.txt`: Target user_id and item_id for prediction (actual results not shared to students)
